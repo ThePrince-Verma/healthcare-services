@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Blood Test",
+      "description": "Complete blood count",
+      "price": 1200
+    },
+    {
+      "id": "3",
+      "name": "X-ray",
+      "description": "Chest X-ray scan",
+      "price": 2000
+    },
+    {
+      "id": "4",
+      "name": "MRI Scan",
+      "description": "Magnetic Resonance Imaging",
+      "price": 5000
+    },
+    {
+      "id": "5",
+      "name": "Vaccination",
+      "description": "Routine immunization",
+      "price": 500
+    },
+    {
+      "id": "6",
+      "name": "Dental Cleaning",
+      "description": "Professional dental cleaning",
+      "price": 1500
+    },
+    {
+      "id": "7",
+      "name": "Eye Exam",
+      "description": "Routine eye checkup",
+      "price": 800
+    },
+    {
+      "id": "8",
+      "name": "Ultrasound",
+      "description": "Abdominal ultrasound scan",
+      "price": "2500"
+    },
+    {
+      "id": "9",
+      "name": "CT Scan",
+      "description": "Full-body computed tomography scan",
+      "price": "6000"
+    },
+    {
+      "id": "e2b8",
+      "name": "General Checkup updated",
+      "description": "Abdominal ultrasound scan",
+      "price": "3000"
+    }
+  ]
+}
