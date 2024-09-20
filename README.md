@@ -14,6 +14,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### Installation
+
+1. **Clone the repository:**
+2. Install project dependencies:
+
+In the project directory, run the following command to install the required packages:
+### `npm install`
+3. Set up JSON Server:
+Install JSON server globally (if not already installed):
+4.Run the JSON server:
+
+### `json-server --watch db.json --port 3000`
+
+Start the React app:
+Since the JSON server is running on port 3000, you'll need to run the React app on a different port (e.g., 3001). In the project directory, run:
+### `PORT=3001 npm start`
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
